@@ -33,6 +33,10 @@ def main():
     plt.imshow(oup,cmap=cm.gray)
     plt.show()"""
     
+    oup=wv.dwt.idwt2(dwtop,nm,length,flag)
+    Image.fromarray(np.uint8(oup)).show()
+    
+    
     
 if __name__ == '__main__':
     main()    
