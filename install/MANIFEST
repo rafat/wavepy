@@ -1,0 +1,10 @@
+setup.py
+README.txt
+COPYING
+COPYRIGHT
+wavepy\__init__.py
+wavepy\convol.py
+wavepy\dwt.py
+wavepy\filter.py
+wavepy\misc.py
+wavepy\sample.py
