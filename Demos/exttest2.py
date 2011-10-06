@@ -4,7 +4,7 @@ import numpy as np
 import scipy as sp
 import matplotlib.pyplot as plt
 import matplotlib.cm as cm
-import wavelets as wv
+import wavepy as wv
 from scipy import lena
 
 def main():

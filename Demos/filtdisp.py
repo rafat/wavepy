@@ -3,7 +3,7 @@
 import sys
 import numpy as np
 import matplotlib.pyplot as plt
-import wavelets as wv
+import wavepy as wv
 
 def main():
     name='db6'
