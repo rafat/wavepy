@@ -1,7 +1,7 @@
 #! /usr/bin/env python
 
-from wavelets import sample
-from wavelets import filter
-from wavelets import convol
-from wavelets import misc
-from wavelets import dwt
+from wavepy import sample
+from wavepy import filter
+from wavepy import convol
+from wavepy import misc
+from wavepy import dwt
